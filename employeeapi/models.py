@@ -10,3 +10,10 @@ class Employee(models.Model):
 
     def __str__(self):
         return str(self.fullname)
+
+
+
+# Create / Insert / Add = POST
+# Retreive / Fetch = GET
+# Update / Edit = PUT
+# Delete / Remove = DELETE
